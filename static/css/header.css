@@ -130,7 +130,7 @@ Version: 1.0
 }
 
 .fixed-header.header-transparent-dark .navbar-nav .nav-link {
-  color: #444;
+  color: #ccc;
   padding: 15px 15px;
 }
 
@@ -165,7 +165,7 @@ Version: 1.0
   left: 0;
   right: 0;
   z-index: 9;
-  background: #fff;
+  background: #1a1a1a;
 }
 .header-white .navbar {
   padding-right: 0;
